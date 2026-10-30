@@ -1,5 +1,7 @@
 # Planetary Universities
 
+Live: https://planetary-universities.eduserver.au
+
 Public landing page for the Planetary Universities research project at Curtin
 University. The site is a single teaser page with three layout concepts for the
 research leads to review.
@@ -14,7 +16,10 @@ live in `concepts/`:
 - Concept C, brief: `/concepts/c.html`
 - Comparison page: `/concepts/`
 
-Concepts are marked `noindex` and will be removed once a direction is chosen.
+Review link: https://planetary-universities.eduserver.au/concepts/
+
+Concepts are marked `noindex` and blocked in `robots.txt`. They will be removed
+once a direction is chosen.
 
 ## Local preview
 
