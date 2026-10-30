@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Planetary Universities">
-  <rect width="64" height="64" rx="14" fill="#18211c"/>
+  <rect width="64" height="64" rx="14" fill="#0c1210"/>
   <g transform="rotate(-90 32 32)" fill="none" stroke-width="5" stroke-linecap="round">
-    <circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-0"/>
-<circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-1"/>
-<circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-2"/>
-<circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-3"/>
-<circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-4"/>
-<circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-5"/>
-<circle cx="32" cy="32" r="20" stroke="#b4452b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-6"/>
-<circle cx="32" cy="32" r="20" stroke="#7fb08b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-7"/>
-<circle cx="32" cy="32" r="20" stroke="#7fb08b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-8"/>
+    <circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-0"/>
+<circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-1"/>
+<circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-2"/>
+<circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-3"/>
+<circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-4"/>
+<circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-5"/>
+<circle cx="32" cy="32" r="20" stroke="#e05a3a" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-6"/>
+<circle cx="32" cy="32" r="20" stroke="#7fd39b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-7"/>
+<circle cx="32" cy="32" r="20" stroke="#7fd39b" pathLength="9" stroke-dasharray="0.9 8.1" stroke-dashoffset="-8"/>
   </g>
 </svg>

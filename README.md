@@ -3,23 +3,11 @@
 Live: https://planetary-universities.eduserver.au
 
 Public landing page for the Planetary Universities research project at Curtin
-University. The site is a single teaser page with three layout concepts for the
-research leads to review.
+University. The site is a single teaser page using the instrument direction the
+research team chose in October 2026.
 
-## Status
-
-Design concepts are under review. The root page is concept A. Two alternatives
-live in `concepts/`:
-
-- Concept A, editorial: `/`
-- Concept B, instrument: `/concepts/b.html`
-- Concept C, brief: `/concepts/c.html`
-- Comparison page: `/concepts/`
-
-Review link: https://planetary-universities.eduserver.au/concepts/
-
-Concepts are marked `noindex` and blocked in `robots.txt`. They will be removed
-once a direction is chosen.
+The other design concepts are preserved in the `design-concepts` git tag. They
+are not part of the live site.
 
 ## Local preview
 
@@ -40,8 +28,8 @@ in `CNAME`:
 planetary-universities.eduserver.au
 ```
 
-DNS should point that hostname to `michael-borck.github.io` with a CNAME
-record. Enable HTTPS in the repository's Pages settings.
+DNS points that hostname to `michael-borck.github.io` with a CNAME record.
+HTTPS is enforced in the repository's Pages settings.
 
 `.nojekyll` is present so files and folders beginning with an underscore are
 served as-is.
@@ -49,10 +37,9 @@ served as-is.
 ## Structure
 
 ```
-index.html          concept A, the current default
+index.html          the landing page
 styles.css
-concepts/           comparison page and concepts B and C
-assets/             favicon
+assets/             favicon and social preview image
 CNAME               custom domain for GitHub Pages
 ```
 
@@ -71,8 +58,6 @@ documents are not part of this repository. They are kept outside it, at
 - The corpus is described as 37 Australian public universities in the grant
   application and about 40 in the conference deck. This site uses 37 until the
   leads confirm the final number.
-- The conference talk is dated October 2026. Change "presenting at" to
-  "presented at" after the event.
 
 ## Licence
 
